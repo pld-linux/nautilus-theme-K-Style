@@ -12,7 +12,6 @@ Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
-%define		_prefix		/usr/X11R6
 
 %description
 Original KDE look and feel.
