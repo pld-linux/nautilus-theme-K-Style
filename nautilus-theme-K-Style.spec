@@ -5,6 +5,7 @@ Version:	1.0
 Release:	1
 License:	Free
 Group:		X11/Amusements
+#http://www.lucidus.uklinux.net/index.php?theme=nautilus&get=k-style.tar.gz
 Source0:	nautilus-k-style.tar.gz
 URL:		http://sunshineinabag.co.uk/
 Requires:	nautilus
@@ -21,8 +22,6 @@ Temat oparty na KDE.
 
 %prep
 %setup -q -n K-Style
-
-%build
 
 %install
 rm -rf $RPM_BUILD_ROOT
