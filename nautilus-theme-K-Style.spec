@@ -1,5 +1,5 @@
 Summary:	Original KDE look and feel
-Summary(pl):	Temat oparty na KDE
+Summary(pl):	Motyw oparty na KDE
 Name:		nautilus-theme-K-Style
 Version:	1.0
 Release:	1
@@ -17,7 +17,7 @@ BuildArch:	noarch
 Original KDE look and feel.
 
 %description -l pl
-Temat oparty na KDE.
+Motyw oparty na KDE.
 
 %prep
 %setup -q -n K-Style
