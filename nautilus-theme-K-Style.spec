@@ -7,6 +7,7 @@ License:	Free
 Group:		X11/Amusements
 #http://www.lucidus.uklinux.net/index.php?theme=nautilus&get=k-style.tar.gz
 Source0:	nautilus-k-style.tar.gz
+# Source0-md5:	0a8668de565050e28370bd9f7f5cfe50
 URL:		http://sunshineinabag.co.uk/
 Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
