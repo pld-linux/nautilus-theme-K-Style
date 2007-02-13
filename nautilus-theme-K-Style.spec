@@ -1,5 +1,5 @@
 Summary:	Original KDE look and feel
-Summary(pl.UTF-8):   Motyw oparty na KDE
+Summary(pl.UTF-8):	Motyw oparty na KDE
 Name:		nautilus-theme-K-Style
 Version:	1.0
 Release:	1
